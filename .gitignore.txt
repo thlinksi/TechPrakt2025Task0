@@ -1,0 +1,11 @@
+/obj/
+.vs
+.idea
+/bin/
+temporary.txt
+/obj/
+.vs
+.idea
+/bin/
+bin
+obj
